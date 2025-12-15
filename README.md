@@ -6,7 +6,7 @@
 
 ![URL](https://github.com/fe045001-netizen/Tp15java/blob/b53409891d903dbbc62d8a161553252380f7d280/images/Exercice2.2.png)
 
-![URL](https://github.com/fe045001-netizen/Tp15java/blob/b53409891d903dbbc62d8a161553252380f7d280/images/Exercice3.1.png)
+![URL](https://github.com/fe045001-netizen/Tp15java/blob/17cc460782d0578b0ea3f1371d92acef03e6e5cb/images/SyntaxeLambda.png)
 
 ![URL](https://github.com/fe045001-netizen/Tp15java/blob/b53409891d903dbbc62d8a161553252380f7d280/images/Exercice3.2.png)
 
